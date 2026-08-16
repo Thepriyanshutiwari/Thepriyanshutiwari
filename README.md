@@ -1,212 +1,204 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00F5FF,100:FF00E5&height=220&section=header&text=PRIYANSHU%20TIWARI&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%3E%20whoami%20%3A%3A%20Full%20Stack%20Developer%20(PHP%20%2B%20MERN)&descAlignY=58&descAlign=50&descSize=17" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=90&section=header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=650&lines=%24+whoami;Full+Stack+Developer+%40+IDS+Logic;PHP+%2B+Laravel+%7C+MERN+Stack;Building+Scalable+Web+Apps+%F0%9F%9A%80;Open+to+SWE+Opportunities+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+<pre>
+██████╗ ██████╗ ██╗██╗   ██╗ █████╗ ███╗   ██╗███████╗██╗  ██╗██╗   ██╗
+██╔══██╗██╔══██╗██║╚██╗ ██╔╝██╔══██╗████╗  ██║██╔════╝██║  ██║██║   ██║
+██████╔╝██████╔╝██║ ╚████╔╝ ███████║██╔██╗ ██║███████╗███████║██║   ██║
+██╔═══╝ ██╔══██╗██║  ╚██╔╝  ██╔══██║██║╚██╗██║╚════██║██╔══██║██║   ██║
+██║     ██║  ██║██║   ██║   ██║  ██║██║ ╚████║███████║██║  ██║╚██████╔╝
+╚═╝     ╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝ ╚═════╝
+</pre>
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Thepriyanshutiwari&color=00F5FF&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0D1117)
-[![GitHub followers](https://img.shields.io/github/followers/Thepriyanshutiwari?style=for-the-badge&color=FF00E5&labelColor=0D1117&label=FOLLOWERS)](https://github.com/Thepriyanshutiwari)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-live-00F5FF?style=for-the-badge&labelColor=0D1117&logo=vercel&logoColor=00F5FF)](https://priyanshu-webdev.netlify.app/)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=800&color=39FF14&center=true&vCenter=true&width=680&lines=%3E+ssh+priyanshu%40fullstack-dev;%3E+loading+skills...+%5BPHP%2C+MERN%2C+GenAI%5D;%3E+status%3A+open_to_work+%3D+true;%3E+welcome+to+my+terminal+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB" />
 
 </div>
 
 <br/>
 
-```yaml
-$ cat about_me.yaml
-```
-
-```yaml
-name: Priyanshu Tiwari
-role: Full Stack Developer (PHP / Laravel + MERN)
-current: Junior PHP Developer @ IDS Logic Pvt Ltd
-location: Lucknow, India
-education: B.Tech IT @ BBDEC — 2026
-status: open_to_work: true          # 👀 open to full-time SWE roles
-focus: [REST APIs, System Design, AWS, TypeScript]
-contact: tiwaripriyanshu44@gmail.com
+```ansi
+┌──────────────────────────────────────────────────────────────────┐
+│  priyanshu@devbox : ~ $ neofetch                                  │
+├──────────────────────────────────────────────────────────────────┤
+│                                                                    │
+│   ⬢⬢⬢⬢⬢⬢⬢⬢     OS ..................... Full-Stack Developer    │
+│  ⬢⬢⬢⬢⬢⬢⬢⬢⬢⬢    Host ................... IDS Logic Pvt Ltd       │
+│  ⬢⬢⬢  P  T  ⬢⬢   Role ................... Junior PHP Developer   │
+│  ⬢⬢⬢⬢⬢⬢⬢⬢⬢⬢    Uptime ................. B.Tech IT · 2022-2026  │
+│   ⬢⬢⬢⬢⬢⬢⬢⬢     Location ............... Lucknow, India 🇮🇳      │
+│                    Shell ................. PHP · JS · Python      │
+│                    Resolution ............ Full Stack (Web)       │
+│                    Stack .................. PHP/Laravel + MERN    │
+│                    GenAI .................. Enabled ⚡             │
+│                    Status ................. open_to_work: true    │
+│                                                                    │
+└──────────────────────────────────────────────────────────────────┘
 ```
 
 <br/>
 
-## ⚡ status.log
+## `>_` about_me
 
 ```diff
-+ 💼  Working as Junior PHP Developer @ IDS Logic Pvt Ltd — shipping Laravel/MySQL features in prod
-+ 🔭  Building out my Job Portal & AI Virtual Assistant projects
-+ 🌱  Leveling up in System Design, AWS, and TypeScript
-+ 👯  Open to collaborating on open-source MERN / Laravel projects
-+ 💬  Ask me about PHP, React, Node.js, or REST API design
-! ⚡  Fun fact: I debug faster with lo-fi beats in the background
++ 💼 Working as Junior PHP Developer @ IDS Logic Pvt Ltd (PHP · Laravel · MySQL)
++ 🤖 Building GenAI-powered features — LLM API integration, prompt engineering, NLP
++ 🔭 Currently shipping my Job Portal & AI Virtual Assistant projects
++ 🌱 Leveling up: System Design · AWS · TypeScript
++ 👯 Open to collaborating on OSS — MERN, Laravel, or AI-integrated apps
++ 📫 Reach me: tiwaripriyanshu44@gmail.com
+! ⚡ Fun fact: I debug faster with lo-fi beats running in the background
 ```
 
 <br/>
 
-## 🧠 tech_stack
+## `>_` genai_module.py
+
+> The part of my stack most people ask about first.
+
+```python
+class GenAIToolkit:
+    def __init__(self):
+        self.integration   = "Generative AI API Integration"
+        self.prompting     = "Prompt Engineering"
+        self.nlp           = "NLP APIs (voice + text)"
+        self.applications  = "LLM Application Development"
+
+    def shipped(self):
+        return [
+            "AI Virtual Assistant — voice/text input, LLM + NLP APIs, <500ms latency",
+            "Async/await orchestration with robust error handling for concurrent AI calls"
+        ]
+
+me = GenAIToolkit()
+print(me.shipped())
+```
 
 <div align="center">
 
-**⚙️ Backend**
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-**🎨 Frontend**
-
-![React](https://img.shields.io/badge/React-00F5FF?style=for-the-badge&logo=react&logoColor=0D1117)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**🗄️ Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**💻 Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**☁️ Tools & Cloud**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-**🤖 AI / Emerging Tech**
-
-![OpenAI](https://img.shields.io/badge/LLM_APIs-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00F5FF?style=for-the-badge&logoColor=0D1117)
+![GenAI](https://img.shields.io/badge/Generative_AI_APIs-39FF14?style=for-the-badge&logo=openai&logoColor=0D1117)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-39FF14?style=for-the-badge&logo=googlegemini&logoColor=0D1117)
+![NLP](https://img.shields.io/badge/NLP_APIs-39FF14?style=for-the-badge&logo=abstract&logoColor=0D1117)
+![LLM Apps](https://img.shields.io/badge/LLM_App_Development-39FF14?style=for-the-badge&logo=langchain&logoColor=0D1117)
 
 </div>
 
 <br/>
 
-## 💼 experience.json
+## `>_` skill_matrix
 
-```json
-[
-  {
-    "role": "Junior Developer – PHP",
-    "company": "IDS Logic Pvt Ltd",
-    "location": "Noida, India",
-    "period": "Jul 2026 – Present",
-    "stack": ["PHP", "Laravel", "MySQL", "MVC"],
-    "highlights": [
-      "Building & maintaining backend features for production apps, following MVC architecture",
-      "Designing and testing RESTful API endpoints + contributing to DB schema design"
-    ]
-  },
-  {
-    "role": "Web Development Intern",
-    "company": "Xeroscape Pvt. Ltd.",
-    "location": "Chennai, India",
-    "period": "Jul 2025 – Sep 2025",
-    "stack": ["MERN", "Bootstrap", "CSS3"],
-    "highlights": [
-      "Improved app performance by 25% via query optimization & code splitting",
-      "Cut data retrieval latency by 30% with optimized DB schemas",
-      "Shipped cross-browser support across 5+ devices",
-      "Delivered 3 features per sprint in Agile/Scrum"
-    ]
-  }
-]
+<div align="center">
+
+| Domain | Stack |
+|---|---|
+| 🖥️ **Backend** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) |
+| 🎨 **Frontend** | ![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
+| 🗄️ **Data** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| 🤖 **GenAI / NLP** | ![LLM](https://img.shields.io/badge/LLM_APIs-39FF14?style=flat-square&logo=openai&logoColor=0D1117) ![Prompting](https://img.shields.io/badge/Prompt_Eng-39FF14?style=flat-square&logoColor=0D1117) ![NLP](https://img.shields.io/badge/NLP-39FF14?style=flat-square&logoColor=0D1117) |
+| ☁️ **Cloud / Tools** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+| 💻 **Languages** | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
+
+</div>
+
+<br/>
+
+## `>_` git_log --experience
+
+```text
+commit a1b2c3d (HEAD -> main, IDS Logic)
+Author: Priyanshu Tiwari
+Date:   Jul 2026 – Present · Noida, India
+
+    Junior Developer – PHP @ IDS Logic Pvt Ltd
+
+    - Build & maintain backend features for production apps (PHP, Laravel, MySQL, MVC)
+    - Design & test RESTful API endpoints, contribute to DB schema design
+
+commit e4f5g6h (Xeroscape)
+Author: Priyanshu Tiwari
+Date:   Jul 2025 – Sep 2025 · Chennai, India
+
+    Web Development Intern @ Xeroscape Pvt. Ltd.
+
+    - Improved app performance 25% via query optimization & code splitting
+    - Cut data retrieval latency 30% with optimized DB schemas
+    - Cross-browser support across 5+ devices
+    - Delivered 3 features / sprint in Agile/Scrum
 ```
 
 <br/>
 
-## 🚀 featured_projects
+## `>_` featured_repos
 
 <div align="center">
 
-| | Project | Description | Stack |
+| | Project | What it does | Stack |
 |:---:|---|---|---|
-| 💼 | [**Job Portal**](https://github.com/Thepriyanshutiwari/Job_Portal) | Full-stack RBAC job portal for 500+ users · 15+ REST endpoints · multi-filter search cut candidate search time **40%** | `React` `Node` `MongoDB` `JWT` |
-| ✅ | **Task Manager** | Context API-optimized task manager — **35%** fewer API calls, **30%** faster page loads | `MERN` `JWT` |
-| 🤖 | [**AI Virtual Assistant**](https://github.com/Thepriyanshutiwari/AI-Virtual-Assistant-MERN) | Voice/text AI assistant powered by NLP + LLM APIs, sub-**500ms** real-time responses | `MERN` `NLP APIs` `Async JS` |
+| 🤖 | [**AI Virtual Assistant**](https://github.com/Thepriyanshutiwari/AI-Virtual-Assistant-MERN) | Voice/text assistant powered by GenAI + NLP APIs, real-time responses under **500ms** | `MERN` `LLM APIs` `NLP` `Async JS` |
+| 💼 | [**Job Portal**](https://github.com/Thepriyanshutiwari/Job_Portal) | RBAC job portal for 500+ users, 15+ REST endpoints, multi-filter search cut search time **40%** | `React` `Node` `MongoDB` `JWT` |
+| ✅ | **Task Manager** | Context API-optimized task manager — **35%** fewer API calls, **30%** faster loads | `MERN` `JWT` |
 
 </div>
 
 <br/>
 
-## 📊 github_stats
+## `>_` github_stats --live
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Thepriyanshutiwari&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00E5&text_color=C9D1D9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Thepriyanshutiwari&theme=dark&hide_border=true&background=0D1117&ring=00F5FF&fire=FF00E5&currStreakLabel=00F5FF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Thepriyanshutiwari&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=C9D1D9" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Thepriyanshutiwari&theme=dark&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" />
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thepriyanshutiwari&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thepriyanshutiwari&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9" />
 
 </div>
 
 <br/>
 
-## 🏆 achievements
+## `>_` trophies --unlocked
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=Thepriyanshutiwari&theme=algolia&no-frame=true&column=6&margin-w=10&margin-h=10)
+![Trophy](https://github-profile-trophy.vercel.app/?username=Thepriyanshutiwari&theme=algolia&no-frame=true&column=6&margin-w=10)
 
 </div>
 
 <br/>
 
-## 📜 certifications
+## `>_` certifications.log
+
+```text
+[✓] Full Stack Web Development   — Apna College      — MERN, REST APIs, Auth, Deployment
+[✓] DSA in C++                   — MySirG             — Arrays, Trees, Graphs, DP
+[✓] AWS Cloud Fundamentals       — Simplilearn         — EC2, S3, IAM, VPC
+[✓] Top Performer                — GeeksforGeeks       — Competitive Programming
+```
+
+<br/>
+
+## `>_` contribution_graph
 
 <div align="center">
 
-| Certificate | Issuer | Topics |
-|---|---|---|
-| 🌐 Full Stack Web Development | Apna College | MERN, REST APIs, Auth, Deployment |
-| ⚡ DSA in C++ | MySirG | Arrays, Trees, Graphs, DP |
-| ☁️ AWS Cloud Fundamentals | Simplilearn | EC2, S3, IAM, VPC |
-| 🏆 Top Performer | GeeksforGeeks | Competitive Programming |
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Thepriyanshutiwari&bg_color=0D1117&color=39FF14&line=39FF14&point=ffffff&area=true&hide_border=true)
 
 </div>
 
 <br/>
 
-## 📈 contribution_graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Thepriyanshutiwari&bg_color=0D1117&color=00F5FF&line=FF00E5&point=ffffff&area=true&hide_border=true)
-
-</div>
-
-<br/>
-
-## 🤝 connect.sh
+## `>_` connect --all
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshut21)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiwaripriyanshu44@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thepriyanshutiwari)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=vercel&logoColor=0D1117)](https://priyanshu-webdev.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-39FF14?style=for-the-badge&logo=vercel&logoColor=0D1117)](https://priyanshu-webdev.netlify.app/)
 
-</div>
+<br/><br/>
 
-<br/>
+`$ echo "thanks for stopping by — ⭐ a repo if you found it useful"`
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00F5FF,100:FF00E5&height=120&section=footer"/>
-
-**💜 If you like my work, drop a ⭐ on my repos — it helps more than you'd think!**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=60&section=footer" />
 
 </div>
